@@ -23,3 +23,11 @@ The purpose of this repository is to practise software development concepts, und
 Author
 
 Mubarak Abdulkareem
+
+## Practical Activities
+This section contains practical exercises completed while learning Git and GitHub.
+
+- Repository creation
+- README documentation
+- Branch creation
+- Commit management
